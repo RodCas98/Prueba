@@ -26,5 +26,10 @@ public class T1 {
         System.out.println("El resultado de la multiplicacion es "+multplicacion);
         System.out.println("El resultado de la division es "+division);
         System.out.println("El resultado del promedio es "+promedio);
+        
+        System.out.println("hola");
+
+
+    
     }
 }
