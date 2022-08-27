@@ -18,8 +18,10 @@ public class Ejercicio1 {
         System.out.println("Ingrese el valor 2");
         num2 = Teclado.nextInt();
 
-        System.out.println(num1);
-        System.out.println(num2);
+        System.out.println("El numero ingreso es : "+num1);
+        System.out.println("El numero ingreso es : "+num2);
+
+        
 
     }
 
